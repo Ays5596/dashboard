@@ -1,0 +1,11 @@
+.navbar{
+    justify-content: space-between;
+}
+span{
+    padding-right: 1rem;
+}
+.data-table{
+    width: 80%;
+    padding-left: 3rem;
+    padding-top: 3rem;
+}
